@@ -1,0 +1,12 @@
+.about {
+	margin: 20px 10px;
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: space-between;
+	padding: 50px;
+	border-color: black;
+	border-width: 1px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.8);
+	border-radius: 10px;
+}

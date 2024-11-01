@@ -1,0 +1,44 @@
+.btn-blue {
+	background-color: #2630E2;
+	color: white;
+	border-radius: 8px;
+	padding: 8px 10px;
+	margin-left: 400px;
+	font-weight: bold;
+}
+
+.btn-blue:hover {
+	padding: 10px 12px;
+	font-size: 20px;
+}
+
+.btn-blue1 {
+	background-color: #2630E2;
+	color: white;
+	border-radius: 4px;
+	padding: 5px 5px;
+	margin-left: 10px;
+	font-weight: bold;
+	font-size: 12px;
+	margin-right: 10px;
+}
+
+.btn-blue1:hover {
+	padding: 6px 6px;
+	font-size: 14px;
+}
+
+.btn-blue2 {
+	background-color: #2630E2;
+	color: white;
+	border-radius: 4px;
+	padding: 5px 5px;
+	margin: 10px 10px;
+	font-weight: bold;
+	font-size: 12px;
+}
+
+.btn-blue2:hover {
+	padding: 5.5px 5.5px;
+	font-size: 13px;
+}
